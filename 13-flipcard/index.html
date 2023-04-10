@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <title>Credit Card Form</title>
+</head>
+<body>
+    <form>
+        <section id="credit-card">
+            <div class="front"></div>
+            <div class="back"></div>
+        </section>
+        <section class="inputs flex">
+            <div class="input-wrapper">
+                <label for="cc-number">Card Number</label>
+                <input 
+                    id="cc-number" 
+                    type="text"
+                    placeholder="**** **** **** ****"
+                />
+            </div>
+
+            <div class="input-wrapper">
+                <label for="cc-holder">Card Name</label>
+                <input 
+                    id="cc-holder" 
+                    type="text"
+                    placeholder="Name according the card"
+                    required
+                />
+                <div class="warning">
+                    <img src="./assets/Warning.svg" alt="warning icon">
+                    The name of own is necessary! 
+                </div>
+            </div>
+
+            <div class="col-2 flex">
+                <div class="input-wrapper">
+                    <label for="cc-validity">Validity</label>
+                    <input 
+                        id="cc-validity"
+                        type="text"
+                        placeholder="MM/YY"
+                    />
+                </div>
+
+                <div class="input-wrapper">
+                    <label class="flex help" for="cc-cvv">CVV
+                        <img
+                            src="./assets/Question.svg"
+                            alt="question mark image"
+                            title="That number, normally in back of your card"
+                        >
+                    </label>
+                    <input 
+                        id="cc-cvv"
+                        type="text"
+                        placeholder="***"
+                    />
+                </div>
+            </div>
+        </section>
+        <section class="info-security">
+            <img 
+                src="./assets/ShieldCheck.svg"
+                alt="Security icon"
+                title="Your dates are safety here"
+            >
+            Your dates are safety here
+        </section>
+        <button>Add your Card</button>
+    </form>
+    <script src="https://unpkg.com/imask"></script>
+    <script src="./script.js"></script>
+</body>
+</html>
