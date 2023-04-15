@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Rubik&family=Source+Sans+Pro:ital,wght@0,900;1,600;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css" />
+
+    <title>Upload Component</title>
+</head>
+
+<body>
+    <div class="upload-component">
+        <section class="drag-files">
+            <input id="input-upload" name="input-upload" type="file" />
+            <img src="./assets/CloudArrowUp.png" alt="upload image" />
+            <h1>Importe seus arquivos</h1>
+            <p>Arraste ou clique para fazer upload</p>
+        </section>
+        <section class="files">
+            <div class="box uploading">
+                <div class="icon">
+                    <img src="./assets/File.svg" alt="icon of file upload" class="iconUpload" />
+                </div>
+                <div class="info">
+                    <div class="filename">photo.png</div>
+                    <div class="filesize">
+                        <span>34 MB / </span>
+                        <span>70 MB</span>
+                    </div>
+                    <div class="bar">
+                        <progress value="45" max="100"></progress>
+                        <span>45%</span>
+                    </div>
+                </div>
+                <div class="action">
+                    <img src="./assets/Cancel.svg" alt="icon of file upload" class="iconUpload" />
+                </div>
+            </div>
+
+            <div class="box done">
+                <div class="icon">
+                    <img src="./assets/File.svg" alt="icon of file upload" class="iconUpload" />
+                </div>
+                <div class="info">
+                    <div class="filename">photo.png</div>
+                    <div class="filesize">
+                        <span>70 MB</span>
+                    </div>
+                    <div class="bar">
+                        <progress value="100" max="100"></progress>
+                        <span>100%</span>
+                    </div>
+                </div>
+                <!-- <div class="action">
+                    <img src="./assets/Cancel.svg" alt="icon of file upload" class="iconUpload" />
+                </div> -->
+            </div>
+
+            <div class="box error">
+                <div class="icon">
+                    <img src="./assets/File.svg" alt="icon of file upload" class="iconUpload" />
+                </div>
+                <div class="info">
+                    <div class="filename">photo.png</div>
+                    <div class="filesize">
+                        <span>70 MB</span>
+                    </div>
+                    <div class="bar">
+                        <progress value="" max="100"></progress>
+                        <span>Error</span>
+                    </div>
+                </div>
+                <div class="action">
+                    <img src="./assets/Retry.svg" alt="icon of file upload" class="iconUpload" />
+                </div>
+            </div>
+        </section>
+    </div>
+    <script src="./javascript.js"></script>
+</body>
+
+</html>
