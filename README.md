@@ -1,6 +1,7 @@
 PROJECTO BORA CODAR DA ROCKETSEAT
 
 Boracodar - projecto semanal rockectseat #boraCodar 💻
+
 Aqui acompanho o projecto, apredendo cada semana
 
 # #boraCodar
@@ -81,5 +82,4 @@ Aqui acompanho o projecto, apredendo cada semana
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ0eoSdrHupG9VjFn1MhTMQ)
 
-![Fernando Piedade GitHub stats](https://github-readme-stats.vercel.app/api?username=fjpiedade&show_icons=true&theme=radical)
 
