@@ -57,26 +57,26 @@ Aqui acompanho os projectos, apredendo cada semana, html, css, javascript ...
             <td>05</td>
             <td><a href="05">Calculadora</a></td>
             <td>08/02/23</td>
-            <td align="center"><a href="05"><img width="300px" src="5-calculator/preview-5.png" /></a></td>
+            <td align="center"><a href="5-calculator/"><img width="300px" src="5-calculator/preview-5.png" /></a></td>
             <td align="center"><a href="https://www.youtube.com/@raiztech"><img width="50px" height="50px" src="./youtube.png" /></a></td>
         </tr>
         <tr>
             <td>13</td>
-            <td><a href="13">Um formulário de cartão</a></td>
+            <td><a href="13-flipcard/">Um formulário de cartão</a></td>
             <td>05/04/23</td>
             <td align="center" ><a href="13"><img width="300px" src="13-flipcard/preview-13.png" /></a></td>
             <td align="center"><a href="https://youtube.com/shorts/gSh4OYOxayg"><img width="50px" height="50px" src="./youtube.png" /></a></td>
         </tr>
         <tr>
             <td>14</td>
-            <td><a href="14">Um componente de upload</a></td>
+            <td><a href="14-upload/">Um componente de upload</a></td>
             <td>12/04/23</td>
             <td align="center" ><a href="14"><img width="300px" src="14-upload/preview.png" /></a></td>
             <td align="center"><a href="https://www.youtube.com/@raiztech"><img width="50px" height="50px"src="./youtube.png" /></a></td>
         </tr>
         <tr>
             <td>15</td>
-            <td><a href="15">Pricing Table</a></td>
+            <td><a href="15-pricetable/">Pricing Table</a></td>
             <td>17/04/23</td>
             <td align="center" ><a href="15"><img width="300px" src="15-pricetable/preview-15.png" /></a></td>
             <td align="center"><a href="https://www.youtube.com/@raiztech"><img width="50px" height="50px" src="./youtube.png" /></a></td>
