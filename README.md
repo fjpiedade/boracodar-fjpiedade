@@ -79,7 +79,7 @@ Aqui acompanho os projectos, apredendo cada semana, html, css, javascript ...
             <td><a href="15-pricetable/">Pricing Table</a></td>
             <td>17/04/23</td>
             <td align="center" ><a href="15-pricetable/"><img width="300px" src="15-pricetable/preview-15.png" /></a></td>
-            <td align="center"><a href="https://www.youtube.com/@raiztech"><img width="50px" height="50px" src="./youtube.png" /></a></td>
+            <td align="center"><a href="https://youtube.com/shorts/FIod7auBj5o"><img width="50px" height="50px" src="./youtube.png" /></a></td>
         </tr>
     </tbody>
 </table></p>
