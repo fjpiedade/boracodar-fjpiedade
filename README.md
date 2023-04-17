@@ -57,7 +57,7 @@ Aqui acompanho o projecto, apredendo cada semana, html, css, javascript ...
             <td>05</td>
             <td><a href="05">Calculadora</a></td>
             <td>08/02/23</td>
-            <td align="center"><a href="05"><img width="300px" src="5-calculator/preview=5.png" /></a></td>
+            <td align="center"><a href="05"><img width="300px" src="5-calculator/preview-5.png" /></a></td>
             <td align="center"><a href="https://www.youtube.com/@raiztech"><img width="50px" height="50px" src="./youtube.png" /></a></td>
         </tr>
         <tr>
