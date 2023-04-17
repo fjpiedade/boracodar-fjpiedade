@@ -2,7 +2,7 @@
 
 Boracodar - projecto semanal rockectseat #boraCodar 💻
 
-Aqui acompanho o projecto, apredendo cada semana
+Aqui acompanho o projecto, apredendo cada semana, html, css, javascript ...
 
 # #boraCodar
 
