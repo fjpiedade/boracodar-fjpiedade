@@ -65,7 +65,7 @@ Aqui acompanho os projectos, apredendo cada semana, html, css, javascript ...
             <td><a href="13">Um formulário de cartão</a></td>
             <td>05/04/23</td>
             <td align="center" ><a href="13"><img width="300px" src="13-flipcard/preview-13.png" /></a></td>
-            <td align="center"><a href="https://www.youtube.com/@raiztech](https://www.youtube.com/shorts/gSh4OYOxayg"><img width="50px" height="50px" src="./youtube.png" /></a></td>
+            <td align="center"><a href="https://youtube.com/shorts/gSh4OYOxayg"><img width="50px" height="50px" src="./youtube.png" /></a></td>
         </tr>
         <tr>
             <td>14</td>
