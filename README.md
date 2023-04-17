@@ -58,28 +58,28 @@ Aqui acompanho o projecto, apredendo cada semana, html, css, javascript ...
             <td><a href="05">Calculadora</a></td>
             <td>08/02/23</td>
             <td align="center"><a href="05"><img width="300px" src="5-calculator/5-preview.png" /></a></td>
-            <td><a href="https://www.youtube.com/@raiztech"><img width="300px" src="./youtube.png" /></a></td>
+            <td><a href="https://www.youtube.com/@raiztech"><img width="25px" height="25px" src="./youtube.png" /></a></td>
         </tr>
         <tr>
             <td>13</td>
             <td><a href="13">Um formulário de cartão</a></td>
             <td>05/04/23</td>
             <td align="center" ><a href="13"><img width="300px" src="13-flipcard/preview-13.png" /></a></td>
-            <td><a href="https://www.youtube.com/@raiztech](https://www.youtube.com/shorts/gSh4OYOxayg"><img width="300px" src="./youtube.png" /></a></td>
+            <td><a href="https://www.youtube.com/@raiztech](https://www.youtube.com/shorts/gSh4OYOxayg"><img width="25px" height="25px" src="./youtube.png" /></a></td>
         </tr>
         <tr>
             <td>14</td>
             <td><a href="14">Um componente de upload</a></td>
             <td>12/04/23</td>
             <td align="center" ><a href="14"><img width="300px" src="14-upload/preview-14.png" /></a></td>
-            <td><a href="https://www.youtube.com/@raiztech"><img width="300px" src="./youtube.png" /></a></td>
+            <td><a href="https://www.youtube.com/@raiztech"><img width="25px" height="25px"src="./youtube.png" /></a></td>
         </tr>
         <tr>
             <td>15</td>
             <td><a href="15">Pricing Table</a></td>
             <td>17/04/23</td>
             <td align="center" ><a href="15"><img width="300px" src="15-pricetable/preview-15.png" /></a></td>
-            <td><a href="https://www.youtube.com/@raiztech"><img width="300px" src="./youtube.png" /></a></td>
+            <td><a href="https://www.youtube.com/@raiztech"><img width="25px" height="25px" src="./youtube.png" /></a></td>
         </tr>
     </tbody>
 </table></p>
