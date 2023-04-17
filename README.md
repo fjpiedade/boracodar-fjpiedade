@@ -72,7 +72,7 @@ Aqui acompanho o projecto, apredendo cada semana, html, css, javascript ...
             <td><a href="14">Um componente de upload</a></td>
             <td>12/04/23</td>
             <td align="center" ><a href="14"><img width="300px" src="14-upload/preview-14.png" /></a></td>
-            <td>[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@raiztech)</td>
+            <td>[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ0eoSdrHupG9VjFn1MhTMQ)</td>
         </tr>
         <tr>
             <td>15</td>
