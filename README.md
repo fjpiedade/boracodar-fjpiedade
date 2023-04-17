@@ -71,7 +71,7 @@ Aqui acompanho o projecto, apredendo cada semana, html, css, javascript ...
             <td>14</td>
             <td><a href="14">Um componente de upload</a></td>
             <td>12/04/23</td>
-            <td align="center" ><a href="14"><img width="300px" src="14-upload/preview-14.png" /></a></td>
+            <td align="center" ><a href="14"><img width="300px" src="14-upload/preview.png" /></a></td>
             <td><a href="https://www.youtube.com/@raiztech"><img width="25px" height="25px"src="./youtube.png" /></a></td>
         </tr>
         <tr>
