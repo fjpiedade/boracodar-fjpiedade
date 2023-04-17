@@ -1,16 +1,85 @@
 PROJECTO BORA CODAR DA ROCKETSEAT
 
-DESAFIO 5 CALCULATOR - USING HTML AND CSS
+Boracodar - projecto semanal rockectseat #boraCodar 💻
+Aqui acompanho o projecto, apredendo cada semana
 
-MY FINAL
+# #boraCodar
 
-![Screenshot 2023-04-10 at 2 31 36 AM](https://user-images.githubusercontent.com/82730685/230813314-58785d2a-5f17-4e47-962e-3632a1dcb79e.png)
+<p align="center">
+    Projetos #boraCodar da Rocketseat <br>
+    <a href="https://boracodar.dev">Acesse o desafio desta semana clicando aqui</a><br>
+    <br><table>
+    <thead>
+        <tr>
+            <th align="center">
+                <img width="20" height="1"> 
+                <p>
+                    <small>#</small>
+                </p>
+            </th>
+            <th align="center">
+                <img width="300" height="1"> 
+                <p> 
+                    <small>
+                        NAME
+                    </small>
+                </p>
+            </th>
+            <th align="left">
+                <img width="140" height="1">
+                <p align="left"> 
+                    <small>
+                    RELEASE DATE
+                    </small>
+                </p>
+            </th>
+            <th align="center">
+                <img width="201" height="1">
+                <p align="center"> 
+                    <small>
+                    PREVIEW
+                    </small>
+                </p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>05</td>
+            <td><a href="05">Calculadora</a></td>
+            <td>08/02/23</td>
+            <td align="center"><a href="05"><img width="300px" src="05/.github/preview.jpg" /></a></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td><a href="13">Um formulário de cartão</a></td>
+            <td>05/04/23</td>
+            <td align="center" ><a href="13"><img width="300px" src="13/.github/preview.jpg" /></a></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td><a href="14">Um componente de upload</a></td>
+            <td>12/04/23</td>
+            <td align="center" ><a href="14"><img width="300px" src="14/.github/preview.jpg" /></a></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td><a href="15">Pricing Table</a></td>
+            <td>19/04/23</td>
+            <td align="center" ><a href="15"><img width="300px" src="15/.github/preview.jpg" /></a></td>
+        </tr>
+    </tbody>
+</table></p>
 
-STEP
+## About Me
 
-![Screenshot 2023-04-10 at 2 10 59 AM](https://user-images.githubusercontent.com/82730685/230814167-27c1ec38-21c9-44f4-a107-d273ff6b79b9.png)
+## Hello Everybody, I am Fernando Piedade Software Developer 👌 👋
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.bank.joao@gmail.com)
 
-FIGMA
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandojoao/)
 
-![Screenshot 2023-04-10 at 12 03 52 AM](https://user-images.githubusercontent.com/82730685/230813355-c6e1157b-1f39-4722-ad73-66016fab33da.png)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQ0eoSdrHupG9VjFn1MhTMQ)
+
+![Fernando Piedade GitHub stats](https://github-readme-stats.vercel.app/api?username=fjpiedade&show_icons=true&theme=radical)
+
