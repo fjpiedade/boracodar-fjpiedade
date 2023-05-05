@@ -92,7 +92,7 @@ Aqui acompanho os projectos, apredendo cada semana, html, css, javascript ...
             <td>17</td>
             <td><a href="17-datepicker/">Contact List</a></td>
             <td>05/05/23</td>
-            <td align="center" ><a href="17-datepicker/"><img width="300px" src="16-contactlist/17-datepicker.png" /></a></td>
+            <td align="center" ><a href="17-datepicker/"><img width="300px" src="16-contactlist/17-preview.png" /></a></td>
             <td align="center"><a href="https://youtube.com/shorts/fBSAESaRnRI?feature=share"><img width="50px" height="50px" src="./youtube.png" /></a></td>
         </tr>
     </tbody>
