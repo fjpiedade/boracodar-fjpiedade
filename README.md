@@ -83,10 +83,17 @@ Aqui acompanho os projectos, apredendo cada semana, html, css, javascript ...
         </tr>
         <tr>
             <td>16</td>
-            <td><a href="15-pricetable/">Contact List</a></td>
+            <td><a href="16-contactlist/">Contact List</a></td>
             <td>26/04/23</td>
             <td align="center" ><a href="16-contactlist/"><img width="300px" src="16-contactlist/preview-16.png" /></a></td>
             <td align="center"><a href="https://youtube.com/shorts/FIod7auBj5o"><img width="50px" height="50px" src="./youtube.png" /></a></td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td><a href="17-datepicker/">Contact List</a></td>
+            <td>05/05/23</td>
+            <td align="center" ><a href="17-datepicker/"><img width="300px" src="16-contactlist/17-datepicker.png" /></a></td>
+            <td align="center"><a href="https://youtube.com/shorts/fBSAESaRnRI?feature=share"><img width="50px" height="50px" src="./youtube.png" /></a></td>
         </tr>
     </tbody>
 </table></p>
